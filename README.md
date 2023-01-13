@@ -16,4 +16,7 @@ I am a Data Scientist who is passionate about energy and sustainability. I enjoy
   <a href="https://www.instagram.com/kultuhtu">
     <img src="https://img.shields.io/badge/Instagram-red" alt="Instagram Badge"/>
   </a>
+  <a href="https://open.spotify.com/user/21yklq5rkmlfel3cxxx3gmf4i?si=3e6449650c02452a">
+    <img src="https://img.shields.io/badge/Spotify-green" alt="Spotify Badge"/>
+  </a>
 </div>
