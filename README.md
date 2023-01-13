@@ -8,11 +8,7 @@ I am a Data Scientist who is passionate about energy and sustainability. I enjoy
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/21yklq5rkmlfel3cxxx3gmf4i)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21yklq5rkmlfel3cxxx3gmf4i&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=5e835d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21yklq5rkmlfel3cxxx3gmf4i&redirect=true)
 
 ---
 
