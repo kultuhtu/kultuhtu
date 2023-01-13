@@ -1,4 +1,4 @@
-### Hi, my name is Ulvi :wave:
+### Hi, my name is Ulvi
 
 
 ## Tell Me a Little Bit About Yourself :sunglasses:
