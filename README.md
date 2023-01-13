@@ -5,6 +5,18 @@ I am a Data Scientist who is passionate about energy and sustainability. I enjoy
 - Currently working at Caspian Innovation Centre
 - My alma mater is UCL
 
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+---
+
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/21yklq5rkmlfel3cxxx3gmf4i)
