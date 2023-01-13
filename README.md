@@ -59,6 +59,3 @@ I spend my free time playing [sudoku](https://en.wikipedia.org/wiki/Sudoku). :wi
 
 ------
 
-Credit: [vanzasetia](https://github.com/vanzasetia)
-
-Last Edited on: 09/10/2022
