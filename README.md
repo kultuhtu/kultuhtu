@@ -8,7 +8,14 @@ I am a Data Scientist who is passionate about energy and sustainability. I enjoy
 
 ---
 ### Let's Connect
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ulvi">
+    <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/kultuhtu">
+    <img src="https://img.shields.io/badge/YouTube-red" alt="Youtube Badge"/>
+  </a>
+</div>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21yklq5rkmlfel3cxxx3gmf4i&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=5e835d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21yklq5rkmlfel3cxxx3gmf4i&redirect=true)
 
