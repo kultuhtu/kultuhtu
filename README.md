@@ -5,7 +5,7 @@ I am a Data Scientist who is passionate about energy and sustainability. I enjoy
 - Currently working at Caspian Innovation Centre
 - My alma mater is UCL
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21yklq5rkmlfel3cxxx3gmf4i&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=5e835d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21yklq5rkmlfel3cxxx3gmf4i&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21yklq5rkmlfel3cxxx3gmf4i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 ### Let's Connect
