@@ -12,7 +12,7 @@ I am a Data Scientist who is passionate about energy and sustainability. I enjoy
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/21yklq5rkmlfel3cxxx3gmf4i)
 
 ---
 
