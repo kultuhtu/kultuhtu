@@ -1,6 +1,6 @@
 ### Hey, my name is Ulvi
 
-I am a Data Scientist who is passionate about energy and sustainability. I enjoy working with people as well as numbers and have a solid background in energy systems, data science, geosciences and foreign languages. I code in Python, R and SQL.
+I am a Data Scientist who is passionate about energy and sustainability. I enjoy working with people as well as numbers and have a solid background in data science, energy systems, data governance, geosciences and foreign languages. I code in Python, R and SQL.
 
 - **Working at:** Caspian Innovation Centre
 - **Alma mater:** UCL
